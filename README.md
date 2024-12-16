@@ -2,6 +2,8 @@
 
 An interactive dream script generator that creates unique, playable dream scenarios using AI.
 
+Also available to view live demo @ https://dream-machine-game.onrender.com/
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
